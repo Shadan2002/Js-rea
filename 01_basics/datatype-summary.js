@@ -17,3 +17,19 @@ let myObject={
 const myFunction=function(){
     console.log("hello world")
 }
+// ####################################################33
+//stack(primitive),Heap(non primitive)
+let myname="shadan ahmad khan"
+let newname=myname
+newname="khan"
+console.log(newname)
+console.log(myname)
+
+let userOne={
+    email:"khan@hjns",
+    upi: "569@ybl"
+}
+let userTwo=userOne
+userTwo.email="ahmad@gmai"
+console.log(userOne.email);
+console.log(userTwo.email); 
