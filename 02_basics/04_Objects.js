@@ -19,5 +19,20 @@ const regname={
 const obj1={1:"a",2:"b"}
 const obj2={3:"a",4:"d"}
 //const obj3={obj1,obj2}
-const obj3=Object.assign(obj1,obj2)
+//const obj3=Object.assign(obj1,obj2)
+const obj3={...obj1,...obj2}
 console.log(obj3)
+
+const user=[
+    {
+        id:1,
+        email:"akndakn@gmail"
+    },{
+        id:1,
+        email:"akndakn@gmail"
+    },
+    {
+        id:1,
+        email:"akndakn@gmail"
+    }
+]//jab data database sae aaye gaye toa array of object aaye gaa
