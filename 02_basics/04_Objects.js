@@ -21,9 +21,9 @@ const obj2={3:"a",4:"d"}
 //const obj3={obj1,obj2}
 //const obj3=Object.assign(obj1,obj2)
 const obj3={...obj1,...obj2}
-console.log(obj3)
+//console.log(obj3)
 
-const user=[
+const userss=[
     {
         id:1,
         email:"akndakn@gmail"
@@ -36,3 +36,11 @@ const user=[
         email:"akndakn@gmail"
     }
 ]//jab data database sae aaye gaye toa array of object aaye gaa
+ const course={
+    couresname:"Javascript",
+    price:1000,
+    Teacher:"shadan"
+ }
+ //course.Teacher
+const {Teacher}=course
+console.log(Teacher)
