@@ -22,5 +22,5 @@ for(const [key,value] of map){
 }
 
 for(const [key,value] of myobject){
-    console.log(key,[;.])
+    console.log(key,':-',value)
 }
