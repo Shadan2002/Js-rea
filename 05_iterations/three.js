@@ -7,5 +7,20 @@ for(const num of arr){
 }
 
 //Map
+const map=new Map()
+map.set('IN',"India")
+map.set('USA',"United state of america")
+map.set('FR',"France") 
 
+//console.log(map)
+for(const [key,value] of map){
+    //console.log(key,':-',value);
+}
+for(const [key,value] of map){
+    game1:'NFS'
+    game2:'Spiderman'
+}
 
+for(const [key,value] of myobject){
+    console.log(key,[;.])
+}
