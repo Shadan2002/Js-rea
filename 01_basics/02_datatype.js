@@ -6,7 +6,7 @@ let name="shadan"
 let age= 18
 let isloggedIn=false
 
-//number =>2 to power 53
+//number =>2 to power 53 this is the  range of number
 //bigint
 //string =>""
 // boolean =>true/false
