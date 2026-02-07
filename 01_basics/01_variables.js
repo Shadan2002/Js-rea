@@ -4,7 +4,7 @@ var accountPassword ="6575"
 accountCity="ranchi"
 let  accountState
  
-//bankId=6789 //not allowed
+//bankId=6789 //not allowed beacuse above it is written in cont it annot change
 accountEmail="advbhs@haa"
 accountPassword="11111"
 accountCity="delhi"
