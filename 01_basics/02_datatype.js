@@ -2,6 +2,8 @@
 
 // alert(3+2) we are using nodejs not browser
 
+
+//this is comment
 let name="shadan"
 let age= 18
 let isloggedIn=false
